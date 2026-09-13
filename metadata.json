@@ -1,0 +1,6 @@
+{
+  "name": "SAM: Self-operating AI Manager",
+  "description": "An autonomous agentic AI system that plans, selects tools, observes results, evaluates progress, and adapts to complete complex goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
